@@ -63,3 +63,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "vite_rails", "~> 3.0"
+
+gem "foreman", "~> 0.88.1"
+
+gem "rename", "~> 1.1"
